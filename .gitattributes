@@ -1,0 +1,7 @@
+# Use the Unix-style line endings by default
+* text=auto
+
+# Ensure Visual Studio solution and project files use Windows-style CRLF line endings
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.vcxproj.* text eol=crlf
