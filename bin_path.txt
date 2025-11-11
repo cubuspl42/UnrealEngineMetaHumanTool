@@ -1,0 +1,8 @@
+$(SolutionDir)..\UnrealEngine\Engine\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Animation\ControlRig\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Animation\ControlRig\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Animation\RigLogic\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Animation\RigLogic\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\MetaHuman\MetaHumanCoreTechLib\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\MetaHuman\MetaHumanSDK\Binaries\Win64
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Runtime\RigVM\Binaries\Win64
