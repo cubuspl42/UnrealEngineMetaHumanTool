@@ -1,0 +1,6 @@
+$(SolutionDir)..\UnrealEngine\Engine\Source\ThirdParty\Eigen
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Animation\RigLogic\Source\RigLogicLib\Public
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\Animation\RigLogic\Source\RigLogicModule\Public
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\MetaHuman\MetaHumanCoreTechLib\Source\MetaHumanCoreTechLib\Private
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\MetaHuman\MetaHumanCoreTechLib\Source\MetaHumanCoreTechLib\Private\carbon\include
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\MetaHuman\MetaHumanCoreTechLib\Source\MetaHumanCoreTechLib\Private\nls\include

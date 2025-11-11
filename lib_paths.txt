@@ -1,0 +1,1 @@
+$(SolutionDir)..\UnrealEngine\Engine\Plugins\MetaHuman\MetaHumanCoreTechLib\Intermediate\Build\Win64\x64\UnrealEditor\Development\MetaHumanCoreTechLib
