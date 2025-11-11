@@ -4,6 +4,8 @@
 
 This directory must be located alongside `UnrealEngine` root directory (i.e. in the same parent directory as that one).
 
+This tools expects minor modifications to the engine's code ([from this branch](https://github.com/cubuspl42/UnrealEngine/tree/metahuman-standalone)).
+
 The `UE5` project must be built.
 
 ## Project configuration
